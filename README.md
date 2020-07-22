@@ -20,3 +20,6 @@ Plot Creation (a plot created with a title, axis labels and saved as a .png file
 Data Analysis (conducted analysis that provided sound reasoning to back up why all three trends are occuring; correct description of those observable trends)
 
 Google Maps (created a heatmap, the second map contains pins for all the cities in the dataFrame, pins are clickable to display city, country, and hotel name placed on top of the heatmap)
+
+
+Juoyter Notebook, Pandas, OpenWeatherMap API, Python

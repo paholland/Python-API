@@ -21,5 +21,4 @@ Data Analysis (conducted analysis that provided sound reasoning to back up why a
 
 Google Maps (created a heatmap, the second map contains pins for all the cities in the dataFrame, pins are clickable to display city, country, and hotel name placed on top of the heatmap)
 
-
-Juoyter Notebook, Pandas, OpenWeatherMap API, Python
+### Jupyter Notebook, Pandas, OpenWeatherMap API, Python, JSON, Matplotlib, HTML, CSS, and Bootstrap
